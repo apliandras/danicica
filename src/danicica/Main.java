@@ -4,6 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		int fibo=fibonacci(44);
+		String cica= "sdaf";
 		System.out.println(fibo);
 		kutya kutya1= new kutya("Bodri");
 		kutya kutya2= new kutya("Steve");
