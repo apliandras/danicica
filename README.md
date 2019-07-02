@@ -30,7 +30,7 @@ commit to a branch
 creating new branch for new tasks:
 1.)Save your current work! The git status should be clean!
 	If there is any unsaved work:
-	add checnges to the current branch
+	add chacnges to the current branch
 		"git add . "
 	commit to a branch
 		"git commit -m "commit message"  "
